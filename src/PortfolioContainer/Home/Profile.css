@@ -1,0 +1,42 @@
+.fa-square-github,
+.fa-linkedin{
+  background-color: white;
+  color: #a6a6a6;
+  height: 100px;
+  margin-left: 10px;
+}
+
+.profile-container{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  height: 10%;
+  min-height: fit-content;
+;
+  
+  /* background-image: url('../../assets/Home/DanW-051-4x5.jpg'); */
+}
+
+.profile-details-name{
+  font-weight: bold;
+  font-size: 102px;
+  font-family: "Poppins Thin";
+}
+
+.profile-details-role{
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-rolling-text{
+  height: 20%;
+  color: black;
+  display: flex;
+  align-items:flex-start;
+}
+
+#react-typicalid {
+    color: white;
+  }
+  
